@@ -11,8 +11,8 @@ Existe um template pronto para utilizarmos não iremos reinventar a roda vamos u
 
 ## Utilizando Kind
 Esse é free nao precisa de preocupar!
-[Instalando o Kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
-[Kind com multiplos nodes](https://mcvidanagama.medium.com/set-up-a-multi-node-kubernetes-cluster-locally-using-kind-eafd46dd63e5)
+- [Instalando o Kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
+- [Kind com multiplos nodes](https://mcvidanagama.medium.com/set-up-a-multi-node-kubernetes-cluster-locally-using-kind-eafd46dd63e5)
 
 ## Utilizando Kube-bench
 O Kube-bench é uma ferramenta que verifica se o Kubernetes está implantado com segurança executando as verificações documentadas no CIS Kubernetes Benchmark.

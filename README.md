@@ -2,7 +2,7 @@
 
 Script da demo do evento Hacktiba
 
-## Fazendo do Kubernetes na Azure
+## Criando um cluster Kubernetes na Azure
 
 - Cuidado! Se você já possui uma conta na Azure, esse lab pode aumentar o seu custo, não faça isso no seu ambiente produtivo!
 

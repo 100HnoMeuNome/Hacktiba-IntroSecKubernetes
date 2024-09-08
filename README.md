@@ -17,6 +17,10 @@ Esse é free nao precisa de preocupar!
 ## Utilizando o Grype
 O Grype é um scan de imagens que pode ser executado localmente. Mais detalhes [aqui](https://github.com/anchore/grype)
 
+```
+grype nome-da-imagem 
+```
+
 ## Utilizando Kube-bench
 O Kube-bench é uma ferramenta que verifica se o Kubernetes está implantado com segurança executando as verificações documentadas no CIS Kubernetes Benchmark.
 Nesse [repo](https://github.com/aquasecurity/kube-bench/tree/main) tem as instruções.

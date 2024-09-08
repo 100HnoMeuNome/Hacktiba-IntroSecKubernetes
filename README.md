@@ -14,6 +14,9 @@ Esse é free nao precisa de preocupar!
 - [Instalando o Kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
 - [Kind com multiplos nodes](https://mcvidanagama.medium.com/set-up-a-multi-node-kubernetes-cluster-locally-using-kind-eafd46dd63e5)
 
+## Utilizando o Grype
+O Grype é um scan de imagens que pode ser executado localmente. Mais detalhes [aqui](https://github.com/anchore/grype)
+
 ## Utilizando Kube-bench
 O Kube-bench é uma ferramenta que verifica se o Kubernetes está implantado com segurança executando as verificações documentadas no CIS Kubernetes Benchmark.
 Nesse [repo](https://github.com/aquasecurity/kube-bench/tree/main) tem as instruções.

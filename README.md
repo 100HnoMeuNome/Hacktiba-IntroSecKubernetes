@@ -18,6 +18,10 @@ Esse é free nao precisa de preocupar!
 O Kube-bench é uma ferramenta que verifica se o Kubernetes está implantado com segurança executando as verificações documentadas no CIS Kubernetes Benchmark.
 Nesse [repo](https://github.com/aquasecurity/kube-bench/tree/main) tem as instruções.
 
+## Utilizando o Kubescape
+O Kubescape é uma plataforma de segurança Kubernetes de código aberto que fornece cobertura de segurança abrangente da esquerda para a direita em todo o ciclo de vida de desenvolvimento e implantação. Ele oferece recursos de proteção, gerenciamento de postura e segurança de tempo de execução para garantir proteção robusta para ambientes Kubernetes.
+Mais detalhes [aqui](https://github.com/kubescape/kubescape)
+
 ## Utilizando KubeHound
 KubeHound cria um gráfico de caminhos de ataque em um cluster Kubernetes, permitindo identificar rotas diretas e de vários saltos que um invasor é capaz de seguir, visualmente ou por meio de consultas gráficas complexas.
 Mais detalhes de como instalar [aqui](https://kubehound.io/user-guide/getting-started/)
